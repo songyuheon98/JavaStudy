@@ -9,6 +9,8 @@ public class Main {
         // 서로 다른 숫자 3개
         while(true) {
             randNum1=(int) (Math.random() * 10);
+            // math.random() 0 ~ 1
+            // 0 ~ 9
             randNum2=(int) (Math.random() * 10);
             randNum3=(int) (Math.random() * 10);
 
@@ -42,6 +44,8 @@ public class Main {
                             strike++;
                         else
                             ball++;
+                        // 0B3S
+                        // 3B0s
             if(ball!=0)
                 System.out.println(ball+"B");
             if(strike!=0)

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9417fc4-179c-4fd4-af56-35a09c6baed8" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../../week03/Sol/src/AbstractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/Sol/src/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/Sol/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/Sol/src/DivideOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/Sol/src/MultiplyOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/Sol/src/SubstractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/Car2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/Handle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/abs/AudiCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/abs/BenzCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/abs/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/abs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/abs/ZenesisCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/constructor/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/constructor/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/constructor/Handle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/constructor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/constructor/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/expendsExample/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/expendsExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/expendsExample/SportsCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/hasExample/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/hasExample/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/hasExample/Handle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/hasExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/hasExample/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/instanceofSample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/inter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/inter2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/inter3/LgTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/inter3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/inter3/MultiRemoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/inter3/SamsungTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/inter3/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/interSample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/opp/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/opp/pk1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/opp/pk2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/override/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/override/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/override/SportsCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/parameter/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/parameter/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/parameter/Handle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/parameter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/parameter/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/poly/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/poly/HankookTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/poly/KiaTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/poly/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/poly/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/staticFolder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/staticFolder/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/staticFolder/Handle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/staticFolder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/staticFolder/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/superExample/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/superExample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/superExample/SportsCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/thisFolder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/thisFolder/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/thisFolder/Handle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/thisFolder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/thisFolder/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week03/javaWeek03/src/수업 목표" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeamProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeamProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeamProject/TeamProject00/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeamProject/TeamProject00/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2U5orpHu4ztVi4VLk6fezitXcsB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="e9417fc4-179c-4fd4-af56-35a09c6baed8" name="변경" comment="" />
+      <created>1692239006696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692239006696</updated>
+      <workItem from="1692239007712" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
